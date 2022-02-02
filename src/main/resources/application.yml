@@ -1,0 +1,3 @@
+jira:
+  end-point: https://service-desk-v2.dev-sicredi.in/rest/api/2/
+  auth-token: Basic bWFyY29zX3N0cmFwYXpvbjpBUkcyMDIyZWhub2lz
